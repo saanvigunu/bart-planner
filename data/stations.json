@@ -1,0 +1,457 @@
+{
+ "source": "https://api.bart.gov/api/stn.aspx?cmd=stns (BART official API)",
+ "fetched_at": "2026-11-22",
+ "note": "snapshot for offline station lookup; live lookups are not needed since station list rarely changes",
+ "stations": [
+  {
+   "name": "12th St./Oakland City Center",
+   "abbr": "12TH",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "1245 Broadway",
+   "lat": 37.803768,
+   "lon": -122.27145
+  },
+  {
+   "name": "16th St./Mission",
+   "abbr": "16TH",
+   "city": "San Francisco",
+   "county": "sanfrancisco",
+   "address": "2000 Mission Street",
+   "lat": 37.765062,
+   "lon": -122.419694
+  },
+  {
+   "name": "19th St./Oakland",
+   "abbr": "19TH",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "1900 Broadway",
+   "lat": 37.80835,
+   "lon": -122.268602
+  },
+  {
+   "name": "24th St./Mission",
+   "abbr": "24TH",
+   "city": "San Francisco",
+   "county": "sanfrancisco",
+   "address": "2800 Mission Street",
+   "lat": 37.75247,
+   "lon": -122.418143
+  },
+  {
+   "name": "Antioch",
+   "abbr": "ANTC",
+   "city": "Antioch",
+   "county": "Contra Costa",
+   "address": "1600 Slatten Ranch Road",
+   "lat": 37.995388,
+   "lon": -121.78042
+  },
+  {
+   "name": "Ashby",
+   "abbr": "ASHB",
+   "city": "Berkeley",
+   "county": "alameda",
+   "address": "3100 Adeline Street",
+   "lat": 37.852803,
+   "lon": -122.270062
+  },
+  {
+   "name": "Balboa Park",
+   "abbr": "BALB",
+   "city": "San Francisco",
+   "county": "sanfrancisco",
+   "address": "401 Geneva Avenue",
+   "lat": 37.721585,
+   "lon": -122.447506
+  },
+  {
+   "name": "Bay Fair",
+   "abbr": "BAYF",
+   "city": "San Leandro",
+   "county": "alameda",
+   "address": "15242 Hesperian Blvd.",
+   "lat": 37.696924,
+   "lon": -122.126514
+  },
+  {
+   "name": "Berryessa/North San Jose",
+   "abbr": "BERY",
+   "city": "San Jose",
+   "county": "Santa Clara",
+   "address": "1620 Berryessa Road",
+   "lat": 37.368473,
+   "lon": -121.874681
+  },
+  {
+   "name": "Castro Valley",
+   "abbr": "CAST",
+   "city": "Castro Valley",
+   "county": "alameda",
+   "address": "3301 Norbridge Dr.",
+   "lat": 37.690746,
+   "lon": -122.075602
+  },
+  {
+   "name": "Civic Center/UN Plaza",
+   "abbr": "CIVC",
+   "city": "San Francisco",
+   "county": "sanfrancisco",
+   "address": "1150 Market Street",
+   "lat": 37.779732,
+   "lon": -122.414123
+  },
+  {
+   "name": "Coliseum",
+   "abbr": "COLS",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "7200 San Leandro St.",
+   "lat": 37.753661,
+   "lon": -122.196869
+  },
+  {
+   "name": "Colma",
+   "abbr": "COLM",
+   "city": "Colma",
+   "county": "sanmateo",
+   "address": "365 D Street",
+   "lat": 37.684638,
+   "lon": -122.466233
+  },
+  {
+   "name": "Concord",
+   "abbr": "CONC",
+   "city": "Concord",
+   "county": "contracosta",
+   "address": "1451 Oakland Avenue",
+   "lat": 37.973737,
+   "lon": -122.029095
+  },
+  {
+   "name": "Daly City",
+   "abbr": "DALY",
+   "city": "Daly City",
+   "county": "sanmateo",
+   "address": "500 John Daly Blvd.",
+   "lat": 37.706121,
+   "lon": -122.469081
+  },
+  {
+   "name": "Downtown Berkeley",
+   "abbr": "DBRK",
+   "city": "Berkeley",
+   "county": "alameda",
+   "address": "2160 Shattuck Avenue",
+   "lat": 37.870104,
+   "lon": -122.268133
+  },
+  {
+   "name": "Dublin/Pleasanton",
+   "abbr": "DUBL",
+   "city": "Pleasanton",
+   "county": "alameda",
+   "address": "5801 Owens Dr.",
+   "lat": 37.701687,
+   "lon": -121.899179
+  },
+  {
+   "name": "El Cerrito del Norte",
+   "abbr": "DELN",
+   "city": "El Cerrito",
+   "county": "contracosta",
+   "address": "6400 Cutting Blvd.",
+   "lat": 37.925086,
+   "lon": -122.316794
+  },
+  {
+   "name": "El Cerrito Plaza",
+   "abbr": "PLZA",
+   "city": "El Cerrito",
+   "county": "contracosta",
+   "address": "6699 Fairmount Avenue",
+   "lat": 37.902632,
+   "lon": -122.298904
+  },
+  {
+   "name": "Embarcadero",
+   "abbr": "EMBR",
+   "city": "San Francisco",
+   "county": "sanfrancisco",
+   "address": "298 Market Street",
+   "lat": 37.792874,
+   "lon": -122.39702
+  },
+  {
+   "name": "Fremont",
+   "abbr": "FRMT",
+   "city": "Fremont",
+   "county": "alameda",
+   "address": "2000 BART Way",
+   "lat": 37.557465,
+   "lon": -121.976608
+  },
+  {
+   "name": "Fruitvale",
+   "abbr": "FTVL",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "3401 East 12th Street",
+   "lat": 37.774836,
+   "lon": -122.224175
+  },
+  {
+   "name": "Glen Park",
+   "abbr": "GLEN",
+   "city": "San Francisco",
+   "county": "sanfrancisco",
+   "address": "2901 Diamond Street",
+   "lat": 37.733064,
+   "lon": -122.433817
+  },
+  {
+   "name": "Hayward",
+   "abbr": "HAYW",
+   "city": "Hayward",
+   "county": "alameda",
+   "address": "699 'B' Street",
+   "lat": 37.669723,
+   "lon": -122.087018
+  },
+  {
+   "name": "Lafayette",
+   "abbr": "LAFY",
+   "city": "Lafayette",
+   "county": "contracosta",
+   "address": "3601 Deer Hill Road",
+   "lat": 37.893176,
+   "lon": -122.12463
+  },
+  {
+   "name": "Lake Merritt",
+   "abbr": "LAKE",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "800 Madison Street",
+   "lat": 37.797027,
+   "lon": -122.26518
+  },
+  {
+   "name": "MacArthur",
+   "abbr": "MCAR",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "555 40th Street",
+   "lat": 37.829065,
+   "lon": -122.26704
+  },
+  {
+   "name": "Millbrae",
+   "abbr": "MLBR",
+   "city": "Millbrae",
+   "county": "sanmateo",
+   "address": "200 North Rollins Road",
+   "lat": 37.600271,
+   "lon": -122.386702
+  },
+  {
+   "name": "Milpitas",
+   "abbr": "MLPT",
+   "city": "Milpitas",
+   "county": "Santa Clara",
+   "address": "1755 S. Milpitas Blvd.",
+   "lat": 37.410277,
+   "lon": -121.891081
+  },
+  {
+   "name": "Montgomery St.",
+   "abbr": "MONT",
+   "city": "San Francisco",
+   "county": "sanfrancisco",
+   "address": "598 Market Street",
+   "lat": 37.789405,
+   "lon": -122.401066
+  },
+  {
+   "name": "North Berkeley",
+   "abbr": "NBRK",
+   "city": "Berkeley",
+   "county": "alameda",
+   "address": "1750 Sacramento Street",
+   "lat": 37.873967,
+   "lon": -122.28344
+  },
+  {
+   "name": "North Concord/Martinez",
+   "abbr": "NCON",
+   "city": "Concord",
+   "county": "contracosta",
+   "address": "3700 Port Chicago Highway",
+   "lat": 38.003193,
+   "lon": -122.024653
+  },
+  {
+   "name": "Oakland International Airport (OAK)",
+   "abbr": "OAKL",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "4 Airport Drive",
+   "lat": 37.713238,
+   "lon": -122.212191
+  },
+  {
+   "name": "Orinda",
+   "abbr": "ORIN",
+   "city": "Orinda",
+   "county": "contracosta",
+   "address": "11 Camino Pablo",
+   "lat": 37.878361,
+   "lon": -122.183791
+  },
+  {
+   "name": "Pittsburg Center",
+   "abbr": "PCTR",
+   "city": "Pittsburg",
+   "county": "Contra Costa",
+   "address": "2099 Railroad Avenue",
+   "lat": 38.016941,
+   "lon": -121.889457
+  },
+  {
+   "name": "Pittsburg/Bay Point",
+   "abbr": "PITT",
+   "city": "Pittsburg",
+   "county": "contracosta",
+   "address": "1700 West Leland Road",
+   "lat": 38.018914,
+   "lon": -121.945154
+  },
+  {
+   "name": "Pleasant Hill/Contra Costa Centre",
+   "abbr": "PHIL",
+   "city": "Walnut Creek",
+   "county": "contracosta",
+   "address": "1365 Treat Blvd.",
+   "lat": 37.928468,
+   "lon": -122.056012
+  },
+  {
+   "name": "Powell St.",
+   "abbr": "POWL",
+   "city": "San Francisco",
+   "county": "sanfrancisco",
+   "address": "899 Market Street",
+   "lat": 37.784471,
+   "lon": -122.407974
+  },
+  {
+   "name": "Richmond",
+   "abbr": "RICH",
+   "city": "Richmond",
+   "county": "contracosta",
+   "address": "1700 Nevin Avenue",
+   "lat": 37.936853,
+   "lon": -122.353099
+  },
+  {
+   "name": "Rockridge",
+   "abbr": "ROCK",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "5660 College Avenue",
+   "lat": 37.844702,
+   "lon": -122.251371
+  },
+  {
+   "name": "San Bruno",
+   "abbr": "SBRN",
+   "city": "San Bruno",
+   "county": "sanmateo",
+   "address": "1151 Huntington Avenue",
+   "lat": 37.637761,
+   "lon": -122.416287
+  },
+  {
+   "name": "San Francisco International Airport (SFO)",
+   "abbr": "SFIA",
+   "city": "San Francisco Int'l Airport",
+   "county": "sanmateo",
+   "address": "International Terminal, Level 3",
+   "lat": 37.615966,
+   "lon": -122.392409
+  },
+  {
+   "name": "San Leandro",
+   "abbr": "SANL",
+   "city": "San Leandro",
+   "county": "alameda",
+   "address": "1401 San Leandro Blvd.",
+   "lat": 37.721947,
+   "lon": -122.160844
+  },
+  {
+   "name": "South Hayward",
+   "abbr": "SHAY",
+   "city": "Hayward",
+   "county": "alameda",
+   "address": "28601 Dixon Street",
+   "lat": 37.634375,
+   "lon": -122.057189
+  },
+  {
+   "name": "South San Francisco",
+   "abbr": "SSAN",
+   "city": "South San Francisco",
+   "county": "sanmateo",
+   "address": "1333 Mission Road",
+   "lat": 37.664245,
+   "lon": -122.44396
+  },
+  {
+   "name": "Union City",
+   "abbr": "UCTY",
+   "city": "Union City",
+   "county": "alameda",
+   "address": "10 Union Square",
+   "lat": 37.59063,
+   "lon": -122.017388
+  },
+  {
+   "name": "Walnut Creek",
+   "abbr": "WCRK",
+   "city": "Walnut Creek",
+   "county": "contracosta",
+   "address": "200 Ygnacio Valley Road",
+   "lat": 37.905522,
+   "lon": -122.067527
+  },
+  {
+   "name": "Warm Springs/South Fremont",
+   "abbr": "WARM",
+   "city": "Fremont",
+   "county": "alameda",
+   "address": "45193 Warm Springs Blvd",
+   "lat": 37.502171,
+   "lon": -121.939313
+  },
+  {
+   "name": "West Dublin/Pleasanton",
+   "abbr": "WDUB",
+   "city": "Dublin",
+   "county": "alameda",
+   "address": "6501 Golden Gate Drive",
+   "lat": 37.699756,
+   "lon": -121.92824
+  },
+  {
+   "name": "West Oakland",
+   "abbr": "WOAK",
+   "city": "Oakland",
+   "county": "alameda",
+   "address": "1451 7th Street",
+   "lat": 37.804872,
+   "lon": -122.29514
+  }
+ ]
+}
